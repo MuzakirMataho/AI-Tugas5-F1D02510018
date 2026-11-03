@@ -54,7 +54,7 @@ Kesimpulan akhir = hasil yang tidak dipakai sebagai syarat aturan lain. Alasan d
 | 3 | hanya ikan megap-megap | **tidak ada kesimpulan** (kasus negatif) |
 | 4 | pH > 8,5, amonia > 0,02, sisa pakan | R6 dan R7 (rantai R4 dan R2) |
 
-**Screenshot (ganti dengan hasil jalan di komputer Anda):**
+**Screenshot :**
 
 ![Kasus 1](kasus1.png)
 ![Kasus 2](kasus2.png)
