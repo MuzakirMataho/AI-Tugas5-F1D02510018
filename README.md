@@ -15,7 +15,7 @@ Topik: masalah kualitas air kolam budidaya ikan lele (pH, oksigen terlarut, amon
 File: `kb_lele.txt` (aturan + sumber, format teks karena Java tidak punya pembaca JSON bawaan), `SistemPakar.java` (mesin FC buatan sendiri), `screenshot/`.
 
 ## 3. Sumber dan aturan
-**S1** Kelana, P.P., Subhan, U., Suryadi, I.B.B., Haris, R.B.K. (2021). *Studi Kesesuaian Kualitas Air untuk Budidaya Ikan Lele Dumbo (Clarias gariepinus) di Kampung Lauk Kabupaten Bandung*. Aurelia Journal 2(2): 159-164. Politeknik KP Dumai & Universitas Padjadjaran. https://ejournal-balitbang.kkp.go.id/index.php/aureliajournal/article/download/9887/7241 (diakses 3 Nov 2026)
+**S1** Kelana, P.P., Subhan, U., Suryadi, I.B.B., Haris, R.B.K. (2021). *Studi Kesesuaian Kualitas Air untuk Budidaya Ikan Lele Dumbo (Clarias gariepinus) di Kampung Lauk Kabupaten Bandung*. Aurelia Journal 2(2): 159-164. Politeknik KP Dumai & Universitas Padjadjaran. https://www.researchgate.net/profile/Ibnu-Bangkit/publication/353545314_STUDI_KESESUAIAN_KUALITAS_AIR_UNTUK_BUDIDAYA_IKAN_LELE_DUMBO_Clarias_gariepinus_DI_KAMPUNG_LAUK_KABUPATEN_BANDUNG/links/610223f51e95fe241a95d6f7/STUDI-KESESUAIAN-KUALITAS-AIR-UNTUK-BUDIDAYA-IKAN-LELE-DUMBO-Clarias-gariepinus-DI-KAMPUNG-LAUK-KABUPATEN-BANDUNG.pdf (diakses 3 Nov 2026)
 
 **S2** Haryasakti, A., Rudyanto, Kaharuddin, Wahyudi, M.H. (2025). *Efektivitas Bakteri Fotosintetik Rhobac dalam Meningkatkan Kualitas Air pada Budidaya Ikan Lele di Kolam Terpal*. Jurnal Pertanian Terpadu 13(1): 43-52. STIPER Kutai Timur. https://ojs.stiperkutim.ac.id/index.php/jpt/article/download/610/296 (diakses 3 Nov 2026)
 
