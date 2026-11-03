@@ -62,4 +62,7 @@ Kesimpulan akhir = hasil yang tidak dipakai sebagai syarat aturan lain. Alasan d
 
 ## 6. Batas keberlakuan
 Pengetahuan dalam sistem ini berasal dari dua artikel jurnal perikanan Indonesia (kolam lele dumbo di Kabupaten Bandung dan kolam terpal di Kutai Timur), bukan dari penelitian saya sendiri. Aturan hanya berlaku untuk budidaya lele di kolam air tawar dan hanya mencakup pH, oksigen terlarut, amonia, bahan organik, dan H2S; penyebab lain (penyakit, kualitas benih, kualitas pakan) tidak dicakup. Hasilnya berupa saran awal, bukan keputusan akhir. Ukur ulang dengan alat yang terkalibrasi dan konsultasikan dengan penyuluh perikanan setempat sebelum bertindak. Peringatan ini juga ditampilkan oleh program.
-
+## 7. Penggunaan alat bantu AI
+Saya memakai Claude (Anthropic) untuk mencari sumber jurnal dan menyusun
+draf aturan, kode Java, dan README. Saya sudah membaca kedua sumber,
+menjalankan program sendiri, dan memahami cara kerja kode serta aturannya.
