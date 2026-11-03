@@ -56,9 +56,9 @@ Kesimpulan akhir = hasil yang tidak dipakai sebagai syarat aturan lain. Alasan d
 
 **Screenshot (ganti dengan hasil jalan di komputer Anda):**
 
-![Kasus 1](screenshot/kasus1.png)
-![Kasus 2](screenshot/kasus2.png)
-![Kasus 3 negatif](screenshot/kasus3.png)
+![Kasus 1](kasus1.png)
+![Kasus 2](kasus2.png)
+![Kasus 3 negatif](kasus3.png)
 
 ## 6. Batas keberlakuan
 Pengetahuan dalam sistem ini berasal dari dua artikel jurnal perikanan Indonesia (kolam lele dumbo di Kabupaten Bandung dan kolam terpal di Kutai Timur), bukan dari penelitian saya sendiri. Aturan hanya berlaku untuk budidaya lele di kolam air tawar dan hanya mencakup pH, oksigen terlarut, amonia, bahan organik, dan H2S; penyebab lain (penyakit, kualitas benih, kualitas pakan) tidak dicakup. Hasilnya berupa saran awal, bukan keputusan akhir. Ukur ulang dengan alat yang terkalibrasi dan konsultasikan dengan penyuluh perikanan setempat sebelum bertindak. Peringatan ini juga ditampilkan oleh program.
