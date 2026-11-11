@@ -1,0 +1,43 @@
+# Format: JUDUL=, BATAS=, SUMBER|id|teks, TANYA|fakta|pertanyaan, ATURAN|id|mode|syarat1;syarat2|maka|sumber1,sumber2|akhir(y/n)|saran
+JUDUL=Hama dan penyakit tanaman cabai
+BATAS=Aturan berasal dari 2 dokumen resmi Kementerian Pertanian (S1: BPTP Jambi 2014; S2: BPTP Bengkulu 2021) dan hanya mencakup hama dan penyakit utama cabai merah, serta pH tanah. Hasilnya saran awal, bukan keputusan akhir; konfirmasikan ke penyuluh pertanian atau petugas POPT setempat sebelum memakai pestisida.
+SUMBER|S1|Meilin, A. (2014). Hama dan Penyakit pada Tanaman Cabai serta Pengendaliannya. BPTP Jambi, Badan Litbang Pertanian, Kementerian Pertanian. https://repository.pertanian.go.id/bitstream/handle/123456789/10254/14bookcabe.pdf, diakses 3 Nov 2026
+SUMBER|S2|Dinata, K., Oktavia, Y., Astuti, H.B., dkk. (2021). Budidaya, Produksi Benih dan Pascapanen Cabai Merah. BPTP Bengkulu, Badan Litbang Pertanian, Kementerian Pertanian. https://repository.pertanian.go.id/server/api/core/bitstreams/57efefd9-849d-4ee8-a35f-8b95dbb2dbd1/content, diakses 3 Nov 2026
+TANYA|bercak keperakan di bawah daun muda|Ada bercak keperak-perakan di permukaan bawah daun muda
+TANYA|daun muda coklat tembaga atau keriting|Daun muda berwarna coklat tembaga, mengeriting atau keriput
+TANYA|serangan 15 persen atau lebih|Serangan mencapai 15% atau lebih dari tanaman contoh
+TANYA|musim kemarau|Sedang musim kemarau
+TANYA|musim hujan atau lahan lembab|Sedang musim hujan atau lahan selalu lembab
+TANYA|kutu bergerombol dan daun muda mengkerut|Ada kutu bergerombol di pucuk dan daun muda mengkerut atau melingkar
+TANYA|bercak nekrotik pada daun|Ada bercak nekrotik (jaringan mati) pada daun
+TANYA|jelaga hitam pada daun|Ada lapisan jelaga hitam pada daun
+TANYA|tulang daun menebal menguning dan menggulung|Tulang daun menebal, menguning, dan daun menggulung
+TANYA|daun kaku melengkung ke bawah|Daun menebal, kaku, dan melengkung ke bawah
+TANYA|titik hitam di pangkal buah|Ada titik hitam di pangkal buah
+TANYA|buah kuning pucat dan layu|Buah berwarna kuning pucat dan layu
+TANYA|bercak berair mengkilap berlingkar konsentris pada buah|Ada bercak berair mengkilap pada buah yang melebar membentuk lingkaran konsentris
+TANYA|daun layu dari bawah dan menguning|Daun layu mulai dari bawah dan menguning menjalar ke atas
+TANYA|hifa putih seperti kapas|Ada hifa putih seperti kapas pada bagian terinfeksi
+TANYA|layu tiba-tiba daun tetap hijau|Tanaman layu tiba-tiba tetapi daun tetap hijau
+TANYA|cairan keruh seperti asap di air|Batang yang dicelup ke air jernih mengeluarkan cairan keruh seperti asap
+TANYA|bercak bulat coklat berpusat pucat|Ada bercak bulat coklat berpusat pucat atau putih pada daun
+TANYA|pH tanah kurang dari 5,5|pH tanah kurang dari 5,5
+ATURAN|R1|dan|bercak keperakan di bawah daun muda;daun muda coklat tembaga atau keriting|serangan thrips|S1,S2|y|Pasang perangkap kuning (2 buah per 500 m2 sejak umur 2 minggu), mulsa perak, dan buang bagian tanaman yang terserang.
+ATURAN|R2|dan|serangan thrips;serangan 15 persen atau lebih|ambang pengendalian thrips tercapai|S1|y|Pestisida dibenarkan karena serangan mencapai 15% atau lebih per tanaman contoh.
+ATURAN|R3|dan|serangan thrips;musim kemarau|populasi thrips cepat naik di musim kemarau|S1|y|Tingkatkan frekuensi pemantauan; populasi turun saat hujan.
+ATURAN|R4|dan|kutu bergerombol dan daun muda mengkerut|serangan kutu daun|S1,S2|y|Manfaatkan musuh alami (parasitoid, kumbang macan, laba-laba); insektisida bila populasi lebih dari 50 per tanaman.
+ATURAN|R5|dan|serangan kutu daun;musim kemarau|serangan kutu daun berat di musim kemarau|S1,S2|y|Pantau pucuk dan daun muda; kutu daun dapat menularkan banyak jenis virus.
+ATURAN|R6|dan|bercak nekrotik pada daun;jelaga hitam pada daun|serangan kutu kebul|S1,S2|y|Pasang perangkap likat kuning, bersihkan tanaman inang (babadotan, ciplukan, terong), tanam jagung atau tagetes sebagai pembatas.
+ATURAN|R7|dan|serangan kutu kebul;tulang daun menebal menguning dan menggulung|penyakit virus kuning (gemini)|S1,S2|y|Kendalikan kutu kebul secara intensif saat tanaman berumur di bawah 40 hari dan lakukan sanitasi inang.
+ATURAN|R8|dan|daun kaku melengkung ke bawah;daun muda coklat tembaga atau keriting|serangan tungau|S1,S2|y|Musnahkan bagian tanaman yang terserang; akarisida terdaftar bila ada gejala dan populasi tungau.
+ATURAN|R9|dan|titik hitam di pangkal buah;buah kuning pucat dan layu|serangan lalat buah|S1,S2|y|Musnahkan buah terserang; pasang perangkap metil eugenol 1 ml (40 buah per ha) dan ganti tiap 2 minggu.
+ATURAN|R10|dan|musim hujan atau lahan lembab|kondisi mendukung cendawan|S1|n|
+ATURAN|R11|dan|bercak berair mengkilap berlingkar konsentris pada buah|busuk buah antraknosa|S1,S2|y|Bersihkan lahan, buang buah sakit, pakai benih sehat; fungisida hanya pilihan terakhir.
+ATURAN|R12|dan|busuk buah antraknosa;kondisi mendukung cendawan|antraknosa berisiko meledak|S1,S2|y|Penyakit cepat meledak di musim hujan dan menyebar lewat percikan air; sanitasi buah sakit dan hindari alat semprot yang belum dibersihkan.
+ATURAN|R13|dan|daun layu dari bawah dan menguning;hifa putih seperti kapas|layu Fusarium|S1,S2|y|Disebabkan jamur Fusarium.
+ATURAN|R14|dan|layu tiba-tiba daun tetap hijau;cairan keruh seperti asap di air|layu bakteri Ralstonia|S1,S2|y|Disebabkan bakteri Ralstonia solanacearum, berkembang cepat di musim hujan.
+ATURAN|R15|atau|layu Fusarium;layu bakteri Ralstonia|sanitasi tanaman layu|S1,S2|y|Cabut dan musnahkan tanaman terserang; beri Trichoderma atau Gliocladium bersama pemupukan; fungisida atau bakterisida hanya pilihan terakhir.
+ATURAN|R16|dan|bercak bulat coklat berpusat pucat|bercak daun Cercospora|S1|y|Musnahkan sisa tanaman terinfeksi dan gunakan bibit bebas patogen.
+ATURAN|R17|dan|bercak daun Cercospora;kondisi mendukung cendawan|bercak daun Cercospora berisiko menyebar|S1|y|Perbaiki drainase, tanam di musim kemarau dengan irigasi baik, dan rotasi dengan tanaman non-solanaceae.
+ATURAN|R18|dan|pH tanah kurang dari 5,5|tanah terlalu masam|S2|n|
+ATURAN|R19|dan|tanah terlalu masam|perlu pengapuran dolomit|S2|y|Dosis mengikuti pH tanah (Tabel 1 sumber S2), diberikan minimal 1 minggu sebelum pupuk dasar; pH sesuai untuk cabai 6 sampai 7.
