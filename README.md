@@ -78,8 +78,8 @@ java SistemPakar
 
 | ID | Rujukan |
 |---|---|
-| **S1** | Meilin, A. (2014). *Hama dan Penyakit pada Tanaman Cabai serta Pengendaliannya*. BPTP Jambi, Badan Litbang Pertanian, Kementerian Pertanian. <https://repository.pertanian.go.id/bitstream/handle/123456789/10254/14bookcabe.pdf> (diakses 3 Nov 2026) |
-| **S2** | Dinata, K., Oktavia, Y., Astuti, H.B., dkk. (2021). *Budidaya, Produksi Benih dan Pascapanen Cabai Merah*. BPTP Bengkulu, Badan Litbang Pertanian, Kementerian Pertanian. <https://repository.pertanian.go.id/server/api/core/bitstreams/57efefd9-849d-4ee8-a35f-8b95dbb2dbd1/content> (diakses 3 Nov 2026) |
+| **S1** | Meilin, A. (2014). *Hama dan Penyakit pada Tanaman Cabai serta Pengendaliannya*. BPTP Jambi, Badan Litbang Pertanian, Kementerian Pertanian. <https://www.academia.edu/32946554/HAMA_DAN_PENYAKIT_PADA_TANAMAN_CABAI_SERTA_PENGENDALIANNYA_BALAI_PENGKAJIAN_TEKNOLOGI_PERTANIAN_BPTP_JAMBI> (diakses 3 Nov 2026) |
+| **S2** | Dinata, K., Oktavia, Y., Astuti, H.B., dkk. (2021). *Budidaya, Produksi Benih dan Pascapanen Cabai Merah*. BPTP Bengkulu, Badan Litbang Pertanian, Kementerian Pertanian. <https://www.studocu.id/id/document/institut-pertanian-bogor/pengantar-ilmu-pertanian/budidaya-dan-produksi-benih-cabai-merah-pascapanen-2021/153619801?sid=78ba99b2-58bb-4622-b882-2e0c884b024c1794367195> (diakses 3 Nov 2026) |
 
 ### 🧩 Tabel Aturan IF-THEN
 
